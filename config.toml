@@ -1,0 +1,4 @@
+baseURL = 'http://learntera.org/'
+languageCode = 'en-us'
+title = 'Learntera'
+theme = '/hugo-theme-stack' 
