@@ -2,3 +2,12 @@ baseURL = 'http://learntera.org/'
 languageCode = 'en-us'
 title = 'Learntera'
 theme = '/hugo-theme-stack' 
+
+
+[params]
+    favicon = "/favicon.ico"
+    [params.sidebar]
+        subtitle = "tempat dimana kita belajar, mempraktekkan, dan mengamalkan ilmu"
+    [params.sidebar.avatar]
+        enabled = true
+        src = "/learntera.png"
