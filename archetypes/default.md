@@ -19,6 +19,9 @@ categories:
     # - Hub Learntera
     # - laboratory Learntera
     # - Share Learntera
+    # - Berita Learntera
+    # - Pengumuman Learntera
+    # - Showcase Desain
 tags:
     # - Example Tag
 ---
